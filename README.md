@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on my Development Skills<br>👯 I’m looking to collaborate on Frontend Development Projects<br>💬 Ask me about react, javascript and aws<br>📫 How to reach me singhshubham7906@gmail.com 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamsingh06388/)
+🔭 I’m currently working on my Development Skills<br>👯 I’m looking to collaborate on Frontend Development Projects<br>💬 Ask me about react, javascript and aws<br>📫 How to reach me singhshubham7906@gmail.com <br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamsingh06388/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Shubham0638) 
 
 
 # 💻 Tech Stack:
