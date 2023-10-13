@@ -14,7 +14,7 @@
 ### :fire: Streaks 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Shubham7906)](https://git.io/streak-stats)  
 
-### 📈 Github Stats (Amongst top 50%)
+### 📈 Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham7906&show_icons=true&hide=issues,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham7906&layout=compact&langs_count=4)
 
