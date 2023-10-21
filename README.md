@@ -18,6 +18,9 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shubham7906&show_icons=true&hide=issues,prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham7906&layout=compact&langs_count=4)
 
+## 📚 Education
+- Bachelor of Technology (B.Tech) in Computer Science and Engineering from Meerut Institute of Engineering and Technology, Meerut, Uttar Pradesh, India.
+
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
