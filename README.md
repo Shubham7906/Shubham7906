@@ -20,7 +20,6 @@
 
 ## 📚 Education
 - Bachelor of Technology (B.Tech) in Computer Science and Engineering from Meerut Institute of Engineering and Technology, Meerut, Uttar Pradesh, India.
-
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
